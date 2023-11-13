@@ -15,21 +15,16 @@
 <br>
 <p align="center">
   Hi, I'm Devesh Bisht,Frontend Devloper
-  <br>
-  <br>
-  🔬 I'm currently studying for my doctorate at Atatürk University, Department of Computer Engineering
-  <br>
-  🎓 I graduated from Atatürk University, Department of Computer Engineering (Master)
-  <br>
-  🎓 I graduated from Black Sea Technical University, Department of Computer Engineering (Undergraduate)
-  <br>
-  🎓 I graduated from Erzurum İbrahim Hakkı Science High School
-  <br>
-  💻 I love writing code and learn anythings about it
-  <br>
-  📚 I’m currently learning how to build E-Commerce Website with Django
-  <br>
-  📫 How to reach me: <a href="mailto:deveshbisht36@gmail.com">Deveshbisht36@gmail.com</a>
+
+- 🔭 I’m currently working on ...
+- 🌱 I’m currently learning ...
+- 👯 I’m looking to collaborate on ...
+- 🤔 I’m looking for help with ...
+- 💬 Ask me about ...
+- 📫 How to reach me: ...
+- 😄 Pronouns: ...
+- ⚡ Fun fact: ...
+
 </p>
 
 <hr>
@@ -76,7 +71,7 @@
 
 <hr>
 
-<h2 align="center">👨‍💻 Repositories 👨‍💻</h2>
+<!-- <h2 align="center">👨‍💻 Repositories 👨‍💻</h2>
 <br>
 <div width="100%" align="center">
   <a align="left" href="https://github.com/dev0869/Algorithms" title="Algorithms"><img align="left" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=dev0869&repo=Algorithms&theme=react&border_color=61dafb&border_radius=10"></a><a align="right" href="https://github.com/dev0869/DataStructures" title="Data Structures"><img align="right" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=dev0869&repo=DataStructures&theme=react&border_color=61dafb&border_radius=10"></a>
@@ -91,30 +86,10 @@
   <a align="left" href="https://github.com/dev0869/cpp-openmp-needleman-wunsch" title="Needleman Wunsch Algorithm With OpenMP"><img align="left" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=dev0869&repo=cpp-openmp-needleman-wunsch&theme=react&border_color=61dafb&border_radius=10"></a>
   <a align="right" href="https://github.com/dev0869/javascript-minesweeper" title="Minesweeper"><img align="right" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=dev0869&repo=javascript-minesweeper&theme=react&border_color=61dafb&border_radius=10"></a>
 </div>
-<br/><br/><br/><br/><br/><br/>
+<br/><br/><br/><br/><br/><br/> -->
 
 <h4 align="center">
   <a href="https://github.com/dev0869?tab=repositories" title="Show Repositories">🔎 Show More 🔍</a>
 </h4>
 
 
-<!--
-**zumrudu-anka/zumrudu-anka** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
-
-
-Notes: If you want use this readme, firstly star it please. If you can't align your repositories like this, please change your repository desription to shorter than now. Maybe 4 or 5 word will be good.
-
-![Metrics](https://metrics.lecoq.io/zumrudu-anka?template=classic&base.header=0&base.activity=0&base.community=0&base.repositories=0&base.metadata=0&achievements=1&achievements.threshold=C&achievements.secrets=true&achievements.limit=0&config.timezone=Europe%2FIstanbul)
-
--->
