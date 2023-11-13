@@ -14,7 +14,7 @@
 </h5>
 <br>
 <p align="center">
-  Hi, I'm Osman DURDAĞ, Research Assistant & Computer Engineer & Software Developer from Turkey
+  Hi, I'm Devesh Bisht,Frontend Devloper
   <br>
   <br>
   🔬 I'm currently studying for my doctorate at Atatürk University, Department of Computer Engineering
@@ -29,9 +29,7 @@
   <br>
   📚 I’m currently learning how to build E-Commerce Website with Django
   <br>
-  💬 Ask me anything about from <a href="https://github.com/zumrudu-anka/zumrudu-anka/issues" title="Issues">Here</a>
-  <br>
-  📫 How to reach me: <a href="mailto: osmandurdag@hotmail.com">osmandurdag@hotmail.com</a>
+  📫 How to reach me: <a href="mailto:deveshbisht36@gmail.com">Deveshbisht36@gmail.com</a>
 </p>
 
 <hr>
