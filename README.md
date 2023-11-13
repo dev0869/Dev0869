@@ -7,9 +7,9 @@
 </h1>
 
 <h5 align="center">
-  <code><a href="https://www.linkedin.com/in/osmandurdag/" title="LinkedIn Profile"><img width="22" src="images/linkedin.svg"> LinkedIn</a></code>
+  <code><a href="https://www.linkedin.com/in/devesh-bisht-0a2959269/" title="LinkedIn Profile"><img width="22" src="images/linkedin.svg"> LinkedIn</a></code>
 
-  <code><a href="https://www.instagram.com/osman__durdag/" title="Instagram Profile"><img width="22" src="images/instagram.svg"> Instagram</a></code>
+  <code><a href="https://www.instagram.com/innocent_rajput_025/" title="Instagram Profile"><img width="22" src="images/instagram.svg"> Instagram</a></code>
 </h5>
 <br>
 <p align="center">
